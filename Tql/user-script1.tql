@@ -6,7 +6,7 @@ SCRIPT({
   x := values[0]
   y := values[1]
   z := math.sin(10*(math.pow(x,2) + math.pow(y,2)))/10
-  ctx.yieldKey(x, y, z)
+  ctx.yield(x, y, z)
 })
 CHART_LINE3D(
   size('800px', '600px'),
