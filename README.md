@@ -5,7 +5,7 @@ machbase-neo worksheet samples
 
 1. Copy the web URL.
 
-<img src=./img/readme_1.jpg width=400px>
+<img src=./img/clone_weburl.jpg width=400px>
 
 2. Select Clone action on machbase-neo
 
