@@ -1,7 +1,6 @@
 # neo-samples
 machbase-neo worksheet samples
 
-pull-test
 
 ## How to install on machbase-neo
 
